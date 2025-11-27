@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-int madhu;
- madhu=10;
-int  mad;
-mad=15;
-int sum = (madhu+mad);
+int a;
+a=10;
+int  b;
+b=15;
+int sum = (a+b);
 sum=25;
 printf("%d",sum);
 }
